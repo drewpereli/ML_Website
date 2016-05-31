@@ -1,0 +1,158 @@
+
+        * {
+            margin: 5px;
+            font-family: verdana, arial, helvetica, sans-serif
+        }
+        
+        body{
+            background-color: ECD078;
+        }
+        
+        h1 {
+           
+            text-align: center;
+        }
+        
+       
+        
+        #navBar a {
+            margin: 30px;
+            float: left;
+        }
+        
+        #linkContainer {
+            float: left;
+        }
+        
+        #loginContainer {
+            float: right;
+        }
+        
+        #postTemplate {
+            display: none;
+        }
+        
+        
+        .postContainer {
+            margin: 20px;
+            padding: 20px;
+            border-top: 3px solid black;
+        }
+    
+        .postInfo {
+            margin: 10px;
+        }
+        
+        .linkText{
+            font-size: 1.3em;
+        }
+        
+        #postDiv{
+            flot: left;
+            clear: left;
+        }
+        
+        #searchBar{
+            border: 1px solid black;
+            float: left;
+            min-height: 30px;
+            width: 400px;
+            background-color: DDDDDD;
+        }
+        
+        #searchTagsContainer{
+            float: left;
+            clear: left;
+        }
+        
+        .tag{
+            border: 1px solid black;
+            border-radius: 3px;
+            vertial-align: middle;
+            text-align: center;
+            margin: 2px;
+            padding: 3px;
+            float: left;
+            height: 20px;
+            color: #222222;
+            background-color: #63878a;
+            cursor: default;
+            
+            -webkit-touch-callout: none;
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        
+        #searchContainer .tag{
+            cursor: pointer;
+        }
+        
+        
+        
+        #addPostBodyContainer {
+            float: left;
+            margin-top: 50px;
+        }
+
+
+        
+        #addTagForm{
+            border: 2px solid black;
+            padding: 5px;
+        }
+        
+        #existingTagsList li{
+            float: left;
+            width: 30%;
+        }
+
+
+
+        #tagOptionContainer{
+            float: left;
+            width: 100%;
+        }
+
+        #postForm{
+            width: 80%;
+        }
+
+        .add-post-url-input {
+            float: left;
+            min-width: 50%;
+        }
+
+        .add-post-tag-display-column{
+            float: left;
+            width: 20%;
+            margin: 10px;
+            padding: 0px;
+        }
+
+        .float-left{
+            float: left;
+        }
+
+        .clear-right{
+            clear: right;
+        }
+
+        .clear-left{
+            clear: left;
+        }
+
+        .inline {
+            display: inline;
+        }
+
+        .width100{
+            width: 100%;
+        }
+
+
+
+
+

@@ -1,0 +1,38 @@
+
+
+/* Post Stuff */
+
+	.post-container{
+	  padding: 5px;
+	  min-height: 110px;
+	}
+	.post-score{
+	  font-size: 125%;
+	  padding-top: 10px;
+	}
+	.post-title{
+	  font-weight:  bold;
+	}
+	.post-author, .post-time{
+	  text-align: right;  
+	}
+
+	.post-author{
+		margin-bottom: 20px;
+	}
+	.tag-row{
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.display-tag{
+	  margin: 2px;
+	  padding: 2px;
+	  border: 1px solid gray;
+	  border-radius: 3px;
+
+	}
+
+
+
+
+	
